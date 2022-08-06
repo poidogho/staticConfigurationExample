@@ -1,0 +1,22 @@
+{
+  "name": "staticconfigurationexample",
+  "version": "1.0.0",
+  "description": "A simple static configuration for release of new feature",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poidogho/staticConfigurationExample.git"
+  },
+  "author": "Odafe Idogho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poidogho/staticConfigurationExample/issues"
+  },
+  "homepage": "https://github.com/poidogho/staticConfigurationExample#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
